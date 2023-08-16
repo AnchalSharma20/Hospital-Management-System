@@ -1,4 +1,19 @@
 # Hospital-Management-System
+Developed a comprehensive hospital management system with functionalities including:​
+
+- Signup(only of users) and login features​
+- Designed and implemented admin controls to add specialist areas, manage doctors, including adding, removing, and editing doctor profiles.​
+- Developed appointment management system allowing users to schedule and allowing doctors to comment on appointments..​
+- Implemented profile update and password change functionalities for doctors and password change functionalities for users.​
+
+```
+Frontend – Html, CSS, JavaScript, Bootstrap. 
+Backend – Servlet, JDBC. 
+Database – MySQL. 
+Server – Apache tomcat server. 
+Tools – Eclipse IDE, MySQL workbench​
+```
+​
 
 ## HOME PAGE
 ![image](https://github.com/AnchalSharma20/Hospital-Management-System/assets/113786234/b2573d4b-c467-4504-a534-fc7d10cc2a8b)
